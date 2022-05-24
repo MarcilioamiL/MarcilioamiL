@@ -1,4 +1,4 @@
-Hi 👋 My name is MARCILIO AUGUSTO SILVA DE LIMA
+Hi 👋 My name is MARCILIO LIMA
 ===============================================
 
 * ✉️  You can contact me at [marcilioaugusto53@gmail.com](mailto:marcilioaugusto53@gmail.com)
