@@ -1,8 +1,13 @@
-Hi 👋 My name is MARCILIO LIMA
+Hola 👋 me chamo MARCILIO LIMA
 ===============================================
 
-* ✉️  You can contact me at [marcilioaugusto53@gmail.com](mailto:marcilioaugusto53@gmail.com)
-* 🧠  I'm learning Docker, MySQL, Node.js
+* Email: [marcilioaugusto53@gmail.com](mailto:marcilioaugusto53@gmail.com)
+
+<div align="justify">
+  Sou o Marcilio 🤓, formado em desenvolvimento web na trybe. Apaixonado pela área de QA/teste, Se me perguntarem o motivo da minha escolha pela área, provavelmente direi que QA é um papel que reteme a interlocição, comunicação e trabalho em equipe são coisas muito bem trabalhas na escola trybe e também trazidas em mim por experiências de trabalho passadas.
+ </div>
+ 
+---
 
 ### Skills
 
@@ -19,10 +24,13 @@ Hi 👋 My name is MARCILIO LIMA
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 </p><p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> </p>
 
+---
 
 ### Socials
 
 <a href="https://www.linkedin.com/in/marcilio-lima" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+---
 
 ### Badges
 
