@@ -4,7 +4,7 @@ Hola 👋 me chamo MARCILIO LIMA
 * Email: [marcilioaugusto53@gmail.com](mailto:marcilioaugusto53@gmail.com)
 
 <div align="justify">
-  Sou o Marcilio 🤓, formado em desenvolvimento web na trybe. Apaixonado pela área de QA/teste, se me perguntarem o motivo da minha escolha pela área, provavelmente direi que QA é um papel que reteme a interlocução, comunicação e trabalho em equipe são coisas muito bem trabalhas na escola trybe e também trazidas em mim por experiências de trabalho passadas.
+  Sou o Marcilio 🤓, formado em desenvolvimento web na trybe. Apaixonado pela área de QA/teste, se me perguntarem o motivo da minha escolha pela área, provavelmente direi que QA é um papel que reteme a interlocução, comunicação e trabalho em equipe são coisas muito bem trabalhadas na escola trybe e também trazidas em mim por experiências de trabalho passadas.
  </div>
  
 ---
